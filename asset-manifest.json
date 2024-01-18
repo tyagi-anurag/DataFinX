@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/DataFinX/static/css/main.02e86a13.css",
+    "main.js": "/DataFinX/static/js/main.742781c3.js",
+    "static/media/laptop.png": "/DataFinX/static/media/laptop.44e54aff7969e4cdc0c3.png",
+    "static/media/back.png": "/DataFinX/static/media/back.9e0afee2c09d9c9d5001.png",
+    "static/media/banner.jpg": "/DataFinX/static/media/banner.b7f430d054e0c9e9c6af.jpg",
+    "static/media/single.png": "/DataFinX/static/media/single.20196aa3e7e7fa48f8f7.png",
+    "static/media/double.png": "/DataFinX/static/media/double.8be045e6bb88be63d414.png",
+    "static/media/triple.png": "/DataFinX/static/media/triple.4eb8f19f4b4647321484.png",
+    "static/media/slick.svg": "/DataFinX/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/DataFinX/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/DataFinX/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/DataFinX/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/DataFinX/index.html",
+    "main.02e86a13.css.map": "/DataFinX/static/css/main.02e86a13.css.map",
+    "main.742781c3.js.map": "/DataFinX/static/js/main.742781c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02e86a13.css",
+    "static/js/main.742781c3.js"
+  ]
+}
